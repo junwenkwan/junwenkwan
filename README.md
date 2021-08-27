@@ -4,9 +4,9 @@ My name is Jun Kwan. I am an aspiring software developer working on a variety of
 
 Notable projects include:
 
-* Gesture Recognition [[link](https://github.com/junwenkwan/human-robot-handover)]
-* Research in Few-Shot Learning [[link](https://github.com/junwenkwan/final-year-project)]
-* NASA International Space Apps Challenge [[link](https://2020.spaceappschallenge.org/challenges/confront/spot-fire-3/teams/the-universe-academy/project)]
+* Gesture Recognition for Initiating Human-to-Robot Handovers [[link](https://github.com/junwenkwan/human-robot-handover)]
+* Research in Few-Shot Learning (Honours Year Project) [[link](https://github.com/junwenkwan/final-year-project)]
+* NASA International Space Apps Challenge 2020 [[link](https://2020.spaceappschallenge.org/challenges/confront/spot-fire-3/teams/the-universe-academy/project)]
 
 Here are the research papers that I contributed to under Monash University:
 
